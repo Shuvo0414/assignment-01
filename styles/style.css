@@ -148,3 +148,12 @@
 .hot-deal-offer-img {
     padding-right: 200px;
 }
+
+/* this is instagram section related styles */
+.instagram-photo-container {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding-top: 40px;
+    padding-bottom: 120px;
+}
