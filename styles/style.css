@@ -69,6 +69,7 @@
     padding-top: 24px;
     padding-bottom: 48px;
 }
+
 /* Our Featured Flowers section */
 
 .Our-Featured-Flowers {
@@ -98,4 +99,47 @@
     font-weight: 700;
     text-decoration-line: underline;
     padding-top: 32px;
+}
+
+/* hot-deal-offer related style */
+.hot-deal-offer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 8px;
+    background-color: rgba(229, 84, 115, 0.05);
+    margin: 128px 0px;
+    height: 620px;
+}
+.hot-deal-offer-text{
+    padding-left: 60px;
+}
+.off-text-color{
+    color: #E55473;
+}
+.hot-deal-offer-title {
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+    padding: 230px 215 342 423;
+}
+
+.hot-deal-offer-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    padding: 32px;
+    width: 550px;
+}
+.hot-deal-offer-button{
+    display: flex;
+    justify-content: center;
+}
+.hot-deal-offer-img{
+    padding-right: 200px;
 }
