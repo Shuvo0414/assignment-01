@@ -111,12 +111,15 @@
     margin: 128px 0px;
     height: 620px;
 }
-.hot-deal-offer-text{
+
+.hot-deal-offer-text {
     padding-left: 60px;
 }
-.off-text-color{
+
+.off-text-color {
     color: #E55473;
 }
+
 .hot-deal-offer-title {
     color: #272727;
     font-family: Lato;
@@ -136,10 +139,12 @@
     padding: 32px;
     width: 550px;
 }
-.hot-deal-offer-button{
+
+.hot-deal-offer-button {
     display: flex;
     justify-content: center;
 }
-.hot-deal-offer-img{
+
+.hot-deal-offer-img {
     padding-right: 200px;
 }
