@@ -156,4 +156,35 @@
     gap: 40px;
     padding-top: 40px;
     padding-bottom: 120px;
+    margin-left: 240px;
+    margin-right: 240px;
+}
+
+/* this is get deals related styles */
+.get-deals {
+    background-image: url("../Flower Asset/Rectangle\ 9.png");
+    background-repeat: no-repeat;
+    width: 75%;
+    margin: auto;
+    margin-top: -20px;
+    height: 300px;
+    padding-top: 120px;
+}
+
+.email-Subscribe-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.email {
+    display: block;
+    padding-left: 21px;
+    width: 700px;
+    height: 64px;
+    border-radius: 8px;
+    background-color: #FFF;
+    border: none;
+    color: #27272799
 }
