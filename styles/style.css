@@ -1,0 +1,101 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* this is banner related styles */
+.banner-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E554731A;
+}
+
+.banner-img {
+    width: 635px;
+    height: 800px;
+    padding-bottom: 0px;
+    padding-right: 200px;
+    padding-top: 55px;
+
+}
+
+.banner-text {
+    padding-left: 200px;
+}
+
+.banner-title {
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-weight: 800;
+}
+
+.banner-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    width: 65%;
+}
+
+.primary-btn {
+    border-radius: 8px;
+    background-color: #E55473;
+    padding: 20px 43px;
+    border: 0px;
+    color: white;
+    font-size: 20px;
+}
+
+/* this is main section */
+
+.section-title {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.section-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400px;
+    padding-top: 24px;
+    padding-bottom: 48px;
+}
+/* Our Featured Flowers section */
+
+.Our-Featured-Flowers {
+    padding: 178px;
+    margin: 130px;
+}
+
+.flower-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 48px;
+}
+
+.pink-flower-background {
+    width: 350px;
+    height: 400px;
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgba(167, 33, 98, 0.15)
+}
+
+.pink-flower-description {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 700;
+    text-decoration-line: underline;
+    padding-top: 32px;
+}
