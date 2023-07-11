@@ -41,6 +41,8 @@
     width: 65%;
 }
 
+/* this is main section */
+
 .primary-btn {
     border-radius: 8px;
     background-color: #E55473;
@@ -49,8 +51,6 @@
     color: white;
     font-size: 20px;
 }
-
-/* this is main section */
 
 .section-title {
     color: #272727;
@@ -70,7 +70,7 @@
     padding-bottom: 48px;
 }
 
-/* Our Featured Flowers section */
+/* this is Our Featured Flowers section related styles */
 
 .Our-Featured-Flowers {
     padding: 178px;
@@ -101,7 +101,7 @@
     padding-top: 32px;
 }
 
-/* hot-deal-offer related style */
+/* this is hot-deal-offer section related style */
 .hot-deal-offer {
     display: flex;
     justify-content: space-around;
@@ -160,7 +160,7 @@
     margin-right: 240px;
 }
 
-/* this is get deals related styles */
+/* this is get deals section related styles */
 .get-deals {
     background-image: url("../Flower Asset/Rectangle 9.png");
     background-repeat: no-repeat;
@@ -187,4 +187,42 @@
     background-color: #FFF;
     border: none;
     color: #27272799
+}
+
+/* this is footer related styles */
+
+.footer-container {
+    width: 1922px;
+    height: 449px;
+    background-color: #111010;
+    margin-top: 120px;
+    color: white;
+    text-align: center;
+}
+
+.footer-title {
+    color: #FFFFFF;
+    font-size: 48px;
+    font-weight: 800;
+    padding-top: 130px;
+}
+
+.footer-description {
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    font-weight: 400;
+    padding-bottom: 40px;
+    font-family: Lato;
+    font-size: 18px;
+}
+
+.copy-right {
+    color: rgba(255, 255, 255, 0.40);
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.footer-text {
+    color: #E55473;
 }
